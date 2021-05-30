@@ -100,4 +100,4 @@ for filename in os.listdir('./cogs'):
     if filename.endswith('.py'):
         client.load_extension(f'cogs.{filename[:-3]}')
 
-client.run('ODE2NTg1OTY3NDMxMTg4NTEw.YD9G8g.XJDFdWASvY2n38Bf_XqO7N4Sdk8')
+client.run("Bot token")
