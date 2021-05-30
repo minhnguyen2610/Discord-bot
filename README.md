@@ -1,10 +1,10 @@
 Require for the bot to work:
-#Download python 
-#have a coding platform
-#Know about discord API
-#Have ffmpeg installed and put it in the right PATH
-#Have youtube dl downloaded and put it in the right PATH
-#have asyncio and shutil downloaded and in the right PATH
+Download python 
+have a coding platform
+Know about discord API
+Have ffmpeg installed and put it in the right PATH
+Have youtube dl downloaded and put it in the right PATH
+have asyncio and shutil downloaded and in the right PATH
 
 
 # Discord-bot
