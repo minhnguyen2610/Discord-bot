@@ -1,14 +1,14 @@
-Require for the bot to work:
+
+# Discord-bot
+For my comrade at VVS - first generation Minh Nguyen - second generation Paris
+
+Requirements for the bot to work properly:
 Download python 
 have a coding platform
 Know about discord API
 Have ffmpeg installed and put it in the right PATH
 Have youtube dl downloaded and put it in the right PATH
 have asyncio and shutil downloaded and in the right PATH
-
-
-# Discord-bot
-for my comrade at VVS - first generation Minh Nguyen - second generation Paris
 
 For this bot to work, you will need to download ffmpeg into the same path and directory as your discord bot code as you can see from the picture below
 ![image](https://user-images.githubusercontent.com/51957741/120094240-10a85880-c0d4-11eb-8f1a-367f6a767a9c.png)
